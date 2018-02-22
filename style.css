@@ -1,0 +1,11 @@
+/* acme-regular - latin */
+@font-face {
+  font-family: 'Acme';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./acme-v7-latin-regular.woff') format('woff');
+}
+
+*{
+  font-family: 'Acme';
+}
